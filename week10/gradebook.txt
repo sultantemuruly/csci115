@@ -1,0 +1,2 @@
+Name: Alice | Scores: 85 | 90 | 78 | Average: 84.33333333333333
+Name: Bob | Scores: 72 | 68 | 80 | Average: 73.33333333333333
