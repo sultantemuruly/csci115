@@ -1,0 +1,5 @@
+[09:00] Login
+[09:15] Opened dashboard
+[09:30] Viewed report
+[10:00] Sent email
+[10:30] Coffee break
